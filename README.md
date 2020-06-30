@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Setup
 > npm install
 # using Cloud MongoDB Atlas
@@ -8,4 +7,3 @@
 =======
 # Theater-Play
 Exam for SoftUni, JS Back-End. Made with NodeJS &amp; ExpressJS
->>>>>>> af44e297f3e29f9e9abdc6c778bfe9998053f8bd
